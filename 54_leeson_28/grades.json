@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bob",
+        "subject": "Science",
+        "grade": 86,
+        "date": "06-09-2025"
+    },
+    {
+        "name": "Diana",
+        "subject": "Science",
+        "grade": 85,
+        "date": "31-01-2025"
+    },
+    {
+        "name": "Bob",
+        "subject": "Literature",
+        "grade": 60,
+        "date": "19-07-2025"
+    },
+    {
+        "name": "Charlie",
+        "subject": "Literature",
+        "grade": 78,
+        "date": "05-08-2025"
+    },
+    {
+        "name": "Ethan",
+        "subject": "Literature",
+        "grade": 69,
+        "date": "08-04-2025"
+    },
+    {
+        "name": "Charlie",
+        "subject": "Science",
+        "grade": 63,
+        "date": "24-10-2025"
+    },
+    {
+        "name": "Ethan",
+        "subject": "Math",
+        "grade": 80,
+        "date": "30-01-2025"
+    },
+    {
+        "name": "Alice",
+        "subject": "Physics",
+        "grade": 90,
+        "date": "15-09-2025"
+    },
+    {
+        "name": "Ethan",
+        "subject": "Science",
+        "grade": 63,
+        "date": "18-09-2025"
+    }
+]
